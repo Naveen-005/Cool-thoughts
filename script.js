@@ -64,7 +64,7 @@
         .then(()=>{
          alert("Thought added successfully");
           setTimeout(10000);
-         window.location="/index.html";
+         window.location="index.html";
 
          })
          .catch(()=>{
